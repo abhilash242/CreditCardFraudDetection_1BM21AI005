@@ -27,11 +27,11 @@ This Colab notebook demonstrates the implementation of credit card fraud detecti
     * Split the data into training and testing sets.
 
 2. **Model Training:**
-    * Train the Random Forest and XGBoost models on the training data.
-    * Tune hyperparameters using techniques like Grid Search or Randomized Search to optimize model performance.
+    * Trained the Random Forest and XGBoost models on the training data.
+    * Tuned hyperparameters using techniques like Grid Search or Randomized Search to optimize model performance.
 
 3. **Model Evaluation:**
-    * Evaluate the performance of both models on the test set using metrics such as:
+    * Evaluated the performance of both models on the test set using metrics such as:
         * **Accuracy**
         * **Precision**
         * **Recall**
@@ -39,12 +39,6 @@ This Colab notebook demonstrates the implementation of credit card fraud detecti
         * **ROC AUC**
         * **Confusion Matrix**
 
-4. **Model Comparison:**
-    * Compare the performance of Random Forest and XGBoost to determine the best-performing model.
-
-**Key Findings:**
-
-* [Insert key findings from your analysis here, e.g., XGBoost achieved the highest AUC score, SMOTE improved performance for Random Forest, etc.]
 
 **Conclusion:**
 
